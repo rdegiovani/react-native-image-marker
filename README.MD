@@ -249,3 +249,7 @@ AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcI` },
 ## Example
 
 [example](https://github.com/JimmyDaddy/react-native-image-marker/tree/master/example/markerExample)
+
+## Notes
+
+This repository was created to solve conflict errors on my project
